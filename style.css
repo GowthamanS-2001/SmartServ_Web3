@@ -1,0 +1,58 @@
+fieldset{
+	display: block;
+	border-radius: 12px;
+	background-color: #141414;
+	border: #141414;
+	margin:10% auto; 
+	width:370px;
+	height: 450px; 
+}
+*{
+	background: #222222;
+}
+img{
+	display: block;
+	width: auto;
+	margin:auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+#uname,#pass{
+	display: block;
+	margin:  auto;
+	margin-bottom: 15px;
+	background-color: white;
+	color: black;
+	width: 80%; 
+	padding: 12px 20px;
+  	border-radius: 4px;
+  	border:#141414 ;
+ 	box-sizing:border-box;
+}
+#login{
+	display: block;
+	margin: auto;
+	margin-top: 25px;
+	margin-bottom: 15px;
+	background-color: #71be58;
+	font-size: 15px;
+	color: #e7f4e2;
+	width: 80%; 
+	padding: 12px 20px;
+  	border-radius: 12px;
+  	border:#141414 ;
+ 	box-sizing:border-box;
+}
+#forget{
+	color: #7e7e7e;
+	font-size: 12px; 
+	font-family: Arial;
+	display: block;
+	margin: auto;
+	
+	padding: 12px 20px;
+	margin-bottom: 100px;
+	margin-left: 30%;
+	background-color:#141414;
+
+}
